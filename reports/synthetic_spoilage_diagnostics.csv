@@ -1,0 +1,166 @@
+sku_id,product_name,category,store_id,store_name,shelf_life_days,is_perishable,current_stock_on_hand,current_inventory_value,mean_daily_demand,doh_units,shelf_life_utilization_pct,synthetic_spoilage_risk_category,estimated_synthetic_spoilage_exposure
+SKU-0025,100% Squeezed Orange Juice 1L,Beverages,STORE-03,Suburban Center,14,True,18,238.32,1.2529,14.37,102.6,HIGH_SPOILAGE_RISK,6.14
+SKU-0007,Pure Mountain Spring Water 1.5L,Beverages,STORE-05,Eastgate Retail,14,True,15,194.7,1.4009,10.71,76.5,MODERATE_SPOILAGE_RISK,0.0
+SKU-0025,100% Squeezed Orange Juice 1L,Beverages,STORE-04,Westside Hub,14,True,14,185.36,1.3261,10.56,75.4,MODERATE_SPOILAGE_RISK,0.0
+SKU-0025,100% Squeezed Orange Juice 1L,Beverages,STORE-05,Eastgate Retail,14,True,13,172.12,1.3791,9.43,67.4,LOW_RISK,0.0
+SKU-0039,Unsweetened Coconut Water 500ml,Beverages,STORE-05,Eastgate Retail,21,True,19,331.55,1.4434,13.16,62.7,LOW_RISK,0.0
+SKU-0007,Pure Mountain Spring Water 1.5L,Beverages,STORE-04,Westside Hub,14,True,13,168.74,1.5463,8.41,60.1,LOW_RISK,0.0
+SKU-0035,Organic Whole Dairy Milk 1L,Beverages,STORE-01,Metro Flagship,21,True,55,635.8,4.393,12.52,59.6,LOW_RISK,0.0
+SKU-0007,Pure Mountain Spring Water 1.5L,Beverages,STORE-01,Metro Flagship,14,True,14,181.72,1.6851,8.31,59.4,LOW_RISK,0.0
+SKU-0080,Vanilla Bean Greek Yogurt 500g,Packaged Goods,STORE-01,Metro Flagship,21,True,18,146.7,1.5328,11.74,55.9,LOW_RISK,0.0
+SKU-0018,Soft Brioche Hamburger Buns 4pk,Packaged Goods,STORE-04,Westside Hub,21,True,308,13582.8,26.2735,11.72,55.8,LOW_RISK,0.0
+SKU-0007,Pure Mountain Spring Water 1.5L,Beverages,STORE-02,Downtown Urban,14,True,12,155.76,1.5759,7.61,54.4,LOW_RISK,0.0
+SKU-0080,Vanilla Bean Greek Yogurt 500g,Packaged Goods,STORE-04,Westside Hub,21,True,15,122.25,1.4494,10.35,49.3,LOW_RISK,0.0
+SKU-0007,Pure Mountain Spring Water 1.5L,Beverages,STORE-03,Suburban Center,14,True,10,129.8,1.5024,6.66,47.6,LOW_RISK,0.0
+SKU-0035,Organic Whole Dairy Milk 1L,Beverages,STORE-05,Eastgate Retail,21,True,24,277.44,2.5319,9.48,45.1,LOW_RISK,0.0
+SKU-0080,Vanilla Bean Greek Yogurt 500g,Packaged Goods,STORE-05,Eastgate Retail,21,True,12,97.8,1.2981,9.24,44.0,LOW_RISK,0.0
+SKU-0080,Vanilla Bean Greek Yogurt 500g,Packaged Goods,STORE-02,Downtown Urban,21,True,12,97.8,1.3915,8.62,41.0,LOW_RISK,0.0
+SKU-0025,100% Squeezed Orange Juice 1L,Beverages,STORE-01,Metro Flagship,14,True,9,119.16,1.678,5.36,38.3,LOW_RISK,0.0
+SKU-0029,White Cheddar Baked Popcorn 150g,Packaged Goods,STORE-03,Suburban Center,14,True,14,69.44,2.6454,5.29,37.8,LOW_RISK,0.0
+SKU-0058,Ginger Ale Craft Soda 4x330ml,Beverages,STORE-02,Downtown Urban,30,True,309,17844.75,27.3452,11.3,37.7,LOW_RISK,0.0
+SKU-0029,White Cheddar Baked Popcorn 150g,Packaged Goods,STORE-04,Westside Hub,14,True,15,74.4,2.8715,5.22,37.3,LOW_RISK,0.0
+SKU-0058,Ginger Ale Craft Soda 4x330ml,Beverages,STORE-04,Westside Hub,30,True,268,15477.0,24.6356,10.88,36.3,LOW_RISK,0.0
+SKU-0035,Organic Whole Dairy Milk 1L,Beverages,STORE-04,Westside Hub,21,True,21,242.76,3.1344,6.7,31.9,LOW_RISK,0.0
+SKU-0058,Ginger Ale Craft Soda 4x330ml,Beverages,STORE-01,Metro Flagship,30,True,331,19115.25,34.6466,9.55,31.8,LOW_RISK,0.0
+SKU-0058,Ginger Ale Craft Soda 4x330ml,Beverages,STORE-03,Suburban Center,30,True,203,11723.25,22.2198,9.14,30.5,LOW_RISK,0.0
+SKU-0039,Unsweetened Coconut Water 500ml,Beverages,STORE-03,Suburban Center,21,True,10,174.5,1.5761,6.34,30.2,LOW_RISK,0.0
+SKU-0083,Electrolyte Sports Drink Blue 750ml,Beverages,STORE-02,Downtown Urban,45,True,60,172.2,4.9421,12.14,27.0,LOW_RISK,0.0
+SKU-0031,Creamy Oat Milk Barista Edition 1L,Beverages,STORE-02,Downtown Urban,21,True,71,1376.69,13.4388,5.28,25.1,LOW_RISK,0.0
+SKU-0037,Raw Organic Walnut Halves 200g,Packaged Goods,STORE-01,Metro Flagship,21,True,15,157.05,2.9771,5.04,24.0,LOW_RISK,0.0
+SKU-0029,White Cheddar Baked Popcorn 150g,Packaged Goods,STORE-05,Eastgate Retail,14,True,8,39.68,2.4516,3.26,23.3,LOW_RISK,0.0
+SKU-0039,Unsweetened Coconut Water 500ml,Beverages,STORE-04,Westside Hub,21,True,8,139.6,1.6531,4.84,23.0,LOW_RISK,0.0
+SKU-0135,Coconut Almond Blend Milk 1L,Beverages,STORE-01,Metro Flagship,21,True,61,1184.62,12.6875,4.81,22.9,LOW_RISK,0.0
+SKU-0145,Organic Chicken Bone Broth 1L,Packaged Goods,STORE-02,Downtown Urban,30,True,106,2408.32,15.4109,6.88,22.9,LOW_RISK,0.0
+SKU-0083,Electrolyte Sports Drink Blue 750ml,Beverages,STORE-04,Westside Hub,45,True,46,132.02,4.4906,10.24,22.8,LOW_RISK,0.0
+SKU-0018,Soft Brioche Hamburger Buns 4pk,Packaged Goods,STORE-05,Eastgate Retail,21,True,101,4454.1,22.0273,4.59,21.9,LOW_RISK,0.0
+SKU-0037,Raw Organic Walnut Halves 200g,Packaged Goods,STORE-02,Downtown Urban,21,True,10,104.7,2.3353,4.28,20.4,LOW_RISK,0.0
+SKU-0037,Raw Organic Walnut Halves 200g,Packaged Goods,STORE-03,Suburban Center,21,True,8,83.76,1.8809,4.25,20.2,LOW_RISK,0.0
+SKU-0031,Creamy Oat Milk Barista Edition 1L,Beverages,STORE-03,Suburban Center,21,True,45,872.55,10.6963,4.21,20.0,LOW_RISK,0.0
+SKU-0031,Creamy Oat Milk Barista Edition 1L,Beverages,STORE-04,Westside Hub,21,True,52,1008.28,12.4444,4.18,19.9,LOW_RISK,0.0
+SKU-0120,Golden Toasted Waffles Frozen 8pk,Packaged Goods,STORE-05,Eastgate Retail,45,True,171,3443.94,19.4716,8.78,19.5,LOW_RISK,0.0
+SKU-0011,100% Whole Wheat Sliced Bread 500g,Packaged Goods,STORE-01,Metro Flagship,30,True,117,2303.73,20.1524,5.81,19.4,LOW_RISK,0.0
+SKU-0011,100% Whole Wheat Sliced Bread 500g,Packaged Goods,STORE-03,Suburban Center,30,True,75,1476.75,12.9258,5.8,19.3,LOW_RISK,0.0
+SKU-0031,Creamy Oat Milk Barista Edition 1L,Beverages,STORE-01,Metro Flagship,21,True,75,1454.25,18.5726,4.04,19.2,LOW_RISK,0.0
+SKU-0111,Organic Peppermint Herbal Tea 30ct,Beverages,STORE-01,Metro Flagship,45,True,52,483.08,6.068,8.57,19.0,LOW_RISK,0.0
+SKU-0037,Raw Organic Walnut Halves 200g,Packaged Goods,STORE-04,Westside Hub,21,True,8,83.76,2.0091,3.98,19.0,LOW_RISK,0.0
+SKU-0011,100% Whole Wheat Sliced Bread 500g,Packaged Goods,STORE-05,Eastgate Retail,30,True,62,1220.78,11.175,5.55,18.5,LOW_RISK,0.0
+SKU-0135,Coconut Almond Blend Milk 1L,Beverages,STORE-05,Eastgate Retail,21,True,26,504.92,6.9209,3.76,17.9,LOW_RISK,0.0
+SKU-0006,Artisan Sourdough Sandwich Bread 600g,Packaged Goods,STORE-04,Westside Hub,60,True,85,542.3,8.1073,10.48,17.5,LOW_RISK,0.0
+SKU-0102,Organic Soy Milk Vanilla 1L,Beverages,STORE-04,Westside Hub,30,True,364,18018.0,71.6241,5.08,16.9,LOW_RISK,0.0
+SKU-0080,Vanilla Bean Greek Yogurt 500g,Packaged Goods,STORE-03,Suburban Center,21,True,5,40.75,1.4192,3.52,16.8,LOW_RISK,0.0
+SKU-0120,Golden Toasted Waffles Frozen 8pk,Packaged Goods,STORE-01,Metro Flagship,45,True,249,5014.86,33.2145,7.5,16.7,LOW_RISK,0.0
+SKU-0122,Tonic Water with Quinine 4x250ml,Beverages,STORE-02,Downtown Urban,45,True,75,508.5,10.6563,7.04,15.6,LOW_RISK,0.0
+SKU-0149,Crispy Wafer Hazelnut Biscuits 175g,Packaged Goods,STORE-05,Eastgate Retail,45,True,201,5595.84,29.2992,6.86,15.2,LOW_RISK,0.0
+SKU-0104,Fresh Pressed Lemonade 1.5L,Beverages,STORE-02,Downtown Urban,45,True,104,2385.76,15.1824,6.85,15.2,LOW_RISK,0.0
+SKU-0011,100% Whole Wheat Sliced Bread 500g,Packaged Goods,STORE-02,Downtown Urban,30,True,72,1417.68,15.7521,4.57,15.2,LOW_RISK,0.0
+SKU-0070,Whole Wheat Pita Crackers 200g,Packaged Goods,STORE-04,Westside Hub,45,True,13,96.98,1.9123,6.8,15.1,LOW_RISK,0.0
+SKU-0142,Golden Turmeric Ginger Tea 30ct,Beverages,STORE-04,Westside Hub,30,True,96,1363.2,21.3425,4.5,15.0,LOW_RISK,0.0
+SKU-0019,Organic Multigrain Tortilla Wraps 6pk,Packaged Goods,STORE-03,Suburban Center,30,True,38,459.8,8.6974,4.37,14.6,LOW_RISK,0.0
+SKU-0104,Fresh Pressed Lemonade 1.5L,Beverages,STORE-01,Metro Flagship,45,True,121,2775.74,18.6612,6.48,14.4,LOW_RISK,0.0
+SKU-0122,Tonic Water with Quinine 4x250ml,Beverages,STORE-05,Eastgate Retail,45,True,51,345.78,8.0888,6.31,14.0,LOW_RISK,0.0
+SKU-0070,Whole Wheat Pita Crackers 200g,Packaged Goods,STORE-01,Metro Flagship,45,True,16,119.36,2.5685,6.23,13.8,LOW_RISK,0.0
+SKU-0120,Golden Toasted Waffles Frozen 8pk,Packaged Goods,STORE-04,Westside Hub,45,True,156,3141.84,25.1198,6.21,13.8,LOW_RISK,0.0
+SKU-0147,Chocolate Chip Cookie Dough 450g,Packaged Goods,STORE-03,Suburban Center,45,True,59,842.52,9.6074,6.14,13.6,LOW_RISK,0.0
+SKU-0102,Organic Soy Milk Vanilla 1L,Beverages,STORE-01,Metro Flagship,30,True,448,22176.0,110.3839,4.06,13.5,LOW_RISK,0.0
+SKU-0070,Whole Wheat Pita Crackers 200g,Packaged Goods,STORE-03,Suburban Center,45,True,11,82.06,1.8481,5.95,13.2,LOW_RISK,0.0
+SKU-0083,Electrolyte Sports Drink Blue 750ml,Beverages,STORE-01,Metro Flagship,45,True,36,103.32,6.1758,5.83,13.0,LOW_RISK,0.0
+SKU-0135,Coconut Almond Blend Milk 1L,Beverages,STORE-04,Westside Hub,21,True,24,466.08,8.8583,2.71,12.9,LOW_RISK,0.0
+SKU-0089,Sparkling Grapefruit Water 8x355ml,Beverages,STORE-02,Downtown Urban,60,True,17,117.81,2.2346,7.61,12.7,LOW_RISK,0.0
+SKU-0010,Organic Japanese Green Tea 50ct,Beverages,STORE-04,Westside Hub,60,True,91,1408.68,11.9863,7.59,12.7,LOW_RISK,0.0
+SKU-0122,Tonic Water with Quinine 4x250ml,Beverages,STORE-04,Westside Hub,45,True,55,372.9,9.6762,5.68,12.6,LOW_RISK,0.0
+SKU-0006,Artisan Sourdough Sandwich Bread 600g,Packaged Goods,STORE-01,Metro Flagship,60,True,87,555.06,11.9068,7.31,12.2,LOW_RISK,0.0
+SKU-0092,Matcha Green Tea Latte Mix 250g,Beverages,STORE-02,Downtown Urban,45,True,29,419.63,5.2786,5.49,12.2,LOW_RISK,0.0
+SKU-0147,Chocolate Chip Cookie Dough 450g,Packaged Goods,STORE-02,Downtown Urban,45,True,76,1085.28,13.8108,5.5,12.2,LOW_RISK,0.0
+SKU-0063,Rolled Oats Fruit & Nut Bars 6pk,Packaged Goods,STORE-05,Eastgate Retail,45,True,171,4699.08,31.709,5.39,12.0,LOW_RISK,0.0
+SKU-0026,Barbeque Mesquite Potato Chips 200g,Packaged Goods,STORE-04,Westside Hub,60,True,29,171.97,4.2027,6.9,11.5,LOW_RISK,0.0
+SKU-0073,Pure Cranberry Juice 1L,Beverages,STORE-04,Westside Hub,45,True,147,2700.39,28.5808,5.14,11.4,LOW_RISK,0.0
+SKU-0029,White Cheddar Baked Popcorn 150g,Packaged Goods,STORE-02,Downtown Urban,14,True,5,24.8,3.3322,1.5,10.7,LOW_RISK,0.0
+SKU-0135,Coconut Almond Blend Milk 1L,Beverages,STORE-02,Downtown Urban,21,True,22,427.24,10.0,2.2,10.5,LOW_RISK,0.0
+SKU-0026,Barbeque Mesquite Potato Chips 200g,Packaged Goods,STORE-01,Metro Flagship,60,True,38,225.34,6.0493,6.28,10.5,LOW_RISK,0.0
+SKU-0029,White Cheddar Baked Popcorn 150g,Packaged Goods,STORE-01,Metro Flagship,14,True,6,29.76,4.1409,1.45,10.4,LOW_RISK,0.0
+SKU-0089,Sparkling Grapefruit Water 8x355ml,Beverages,STORE-01,Metro Flagship,60,True,17,117.81,2.8039,6.06,10.1,LOW_RISK,0.0
+SKU-0019,Organic Multigrain Tortilla Wraps 6pk,Packaged Goods,STORE-04,Westside Hub,30,True,33,399.3,10.8739,3.03,10.1,LOW_RISK,0.0
+SKU-0025,100% Squeezed Orange Juice 1L,Beverages,STORE-02,Downtown Urban,14,True,2,26.48,1.4537,1.38,9.9,LOW_RISK,0.0
+SKU-0006,Artisan Sourdough Sandwich Bread 600g,Packaged Goods,STORE-02,Downtown Urban,60,True,53,338.14,9.0,5.89,9.8,LOW_RISK,0.0
+SKU-0122,Tonic Water with Quinine 4x250ml,Beverages,STORE-03,Suburban Center,45,True,39,264.42,8.9429,4.36,9.7,LOW_RISK,0.0
+SKU-0070,Whole Wheat Pita Crackers 200g,Packaged Goods,STORE-05,Eastgate Retail,45,True,7,52.22,1.6471,4.25,9.4,LOW_RISK,0.0
+SKU-0035,Organic Whole Dairy Milk 1L,Beverages,STORE-03,Suburban Center,21,True,6,69.36,3.066,1.96,9.3,LOW_RISK,0.0
+SKU-0063,Rolled Oats Fruit & Nut Bars 6pk,Packaged Goods,STORE-02,Downtown Urban,45,True,179,4918.92,43.122,4.15,9.2,LOW_RISK,0.0
+SKU-0104,Fresh Pressed Lemonade 1.5L,Beverages,STORE-04,Westside Hub,45,True,55,1261.7,13.2291,4.16,9.2,LOW_RISK,0.0
+SKU-0147,Chocolate Chip Cookie Dough 450g,Packaged Goods,STORE-05,Eastgate Retail,45,True,40,571.2,10.0714,3.97,8.8,LOW_RISK,0.0
+SKU-0063,Rolled Oats Fruit & Nut Bars 6pk,Packaged Goods,STORE-04,Westside Hub,45,True,145,3984.6,37.8273,3.83,8.5,LOW_RISK,0.0
+SKU-0073,Pure Cranberry Juice 1L,Beverages,STORE-01,Metro Flagship,45,True,145,2663.65,38.811,3.74,8.3,LOW_RISK,0.0
+SKU-0010,Organic Japanese Green Tea 50ct,Beverages,STORE-05,Eastgate Retail,60,True,45,696.6,9.283,4.85,8.1,LOW_RISK,0.0
+SKU-0092,Matcha Green Tea Latte Mix 250g,Beverages,STORE-05,Eastgate Retail,45,True,13,188.11,3.7813,3.44,7.6,LOW_RISK,0.0
+SKU-0111,Organic Peppermint Herbal Tea 30ct,Beverages,STORE-03,Suburban Center,45,True,13,120.77,3.8197,3.4,7.6,LOW_RISK,0.0
+SKU-0089,Sparkling Grapefruit Water 8x355ml,Beverages,STORE-05,Eastgate Retail,60,True,8,55.44,1.7886,4.47,7.5,LOW_RISK,0.0
+SKU-0009,Sparkling Mineral Water 1L,Beverages,STORE-04,Westside Hub,60,True,55,1079.1,12.7198,4.32,7.2,LOW_RISK,0.0
+SKU-0149,Crispy Wafer Hazelnut Biscuits 175g,Packaged Goods,STORE-03,Suburban Center,45,True,108,3006.72,34.8293,3.1,6.9,LOW_RISK,0.0
+SKU-0070,Whole Wheat Pita Crackers 200g,Packaged Goods,STORE-02,Downtown Urban,45,True,6,44.76,2.0186,2.97,6.6,LOW_RISK,0.0
+SKU-0149,Crispy Wafer Hazelnut Biscuits 175g,Packaged Goods,STORE-04,Westside Hub,45,True,110,3062.4,38.4088,2.86,6.4,LOW_RISK,0.0
+SKU-0145,Organic Chicken Bone Broth 1L,Packaged Goods,STORE-03,Suburban Center,30,True,25,568.0,14.1821,1.76,5.9,LOW_RISK,0.0
+SKU-0147,Chocolate Chip Cookie Dough 450g,Packaged Goods,STORE-01,Metro Flagship,45,True,44,628.32,18.2342,2.41,5.4,LOW_RISK,0.0
+SKU-0111,Organic Peppermint Herbal Tea 30ct,Beverages,STORE-04,Westside Hub,45,True,10,92.9,4.2576,2.35,5.2,LOW_RISK,0.0
+SKU-0120,Golden Toasted Waffles Frozen 8pk,Packaged Goods,STORE-02,Downtown Urban,45,True,61,1228.54,26.7246,2.28,5.1,LOW_RISK,0.0
+SKU-0063,Rolled Oats Fruit & Nut Bars 6pk,Packaged Goods,STORE-03,Suburban Center,45,True,78,2143.44,34.2761,2.28,5.1,LOW_RISK,0.0
+SKU-0004,Colombian Dark Roast Coffee 500g,Beverages,STORE-05,Eastgate Retail,60,True,19,197.6,6.3256,3.0,5.0,LOW_RISK,0.0
+SKU-0018,Soft Brioche Hamburger Buns 4pk,Packaged Goods,STORE-01,Metro Flagship,21,True,41,1808.1,38.8323,1.06,5.0,LOW_RISK,0.0
+SKU-0104,Fresh Pressed Lemonade 1.5L,Beverages,STORE-05,Eastgate Retail,45,True,23,527.62,11.0993,2.07,4.6,LOW_RISK,0.0
+SKU-0102,Organic Soy Milk Vanilla 1L,Beverages,STORE-05,Eastgate Retail,30,True,81,4009.5,62.736,1.29,4.3,LOW_RISK,0.0
+SKU-0006,Artisan Sourdough Sandwich Bread 600g,Packaged Goods,STORE-03,Suburban Center,60,True,19,121.22,7.56,2.51,4.2,LOW_RISK,0.0
+SKU-0035,Organic Whole Dairy Milk 1L,Beverages,STORE-02,Downtown Urban,21,True,3,34.68,3.4388,0.87,4.1,LOW_RISK,0.0
+SKU-0104,Fresh Pressed Lemonade 1.5L,Beverages,STORE-03,Suburban Center,45,True,21,481.74,11.8969,1.77,3.9,LOW_RISK,0.0
+SKU-0019,Organic Multigrain Tortilla Wraps 6pk,Packaged Goods,STORE-01,Metro Flagship,30,True,17,205.7,15.176,1.12,3.7,LOW_RISK,0.0
+SKU-0092,Matcha Green Tea Latte Mix 250g,Beverages,STORE-03,Suburban Center,45,True,7,101.29,4.2762,1.64,3.6,LOW_RISK,0.0
+SKU-0063,Rolled Oats Fruit & Nut Bars 6pk,Packaged Goods,STORE-01,Metro Flagship,45,True,66,1813.68,49.9219,1.32,2.9,LOW_RISK,0.0
+SKU-0092,Matcha Green Tea Latte Mix 250g,Beverages,STORE-04,Westside Hub,45,True,6,86.82,4.7898,1.25,2.8,LOW_RISK,0.0
+SKU-0102,Organic Soy Milk Vanilla 1L,Beverages,STORE-02,Downtown Urban,30,True,68,3366.0,85.4538,0.8,2.7,LOW_RISK,0.0
+SKU-0037,Raw Organic Walnut Halves 200g,Packaged Goods,STORE-05,Eastgate Retail,21,True,1,10.47,1.7908,0.56,2.7,LOW_RISK,0.0
+SKU-0039,Unsweetened Coconut Water 500ml,Beverages,STORE-01,Metro Flagship,21,True,1,17.45,2.0286,0.49,2.3,LOW_RISK,0.0
+SKU-0083,Electrolyte Sports Drink Blue 750ml,Beverages,STORE-05,Eastgate Retail,45,True,4,11.48,3.7994,1.05,2.3,LOW_RISK,0.0
+SKU-0149,Crispy Wafer Hazelnut Biscuits 175g,Packaged Goods,STORE-02,Downtown Urban,45,True,38,1057.92,40.774,0.93,2.1,LOW_RISK,0.0
+SKU-0111,Organic Peppermint Herbal Tea 30ct,Beverages,STORE-05,Eastgate Retail,45,True,3,27.87,3.3688,0.89,2.0,LOW_RISK,0.0
+SKU-0019,Organic Multigrain Tortilla Wraps 6pk,Packaged Goods,STORE-05,Eastgate Retail,30,True,5,60.5,8.4016,0.6,2.0,LOW_RISK,0.0
+SKU-0010,Organic Japanese Green Tea 50ct,Beverages,STORE-03,Suburban Center,60,True,7,108.36,10.4849,0.67,1.1,LOW_RISK,0.0
+SKU-0149,Crispy Wafer Hazelnut Biscuits 175g,Packaged Goods,STORE-01,Metro Flagship,45,True,24,668.16,50.9856,0.47,1.0,LOW_RISK,0.0
+SKU-0058,Ginger Ale Craft Soda 4x330ml,Beverages,STORE-05,Eastgate Retail,30,True,5,288.75,19.4643,0.26,0.9,LOW_RISK,0.0
+SKU-0089,Sparkling Grapefruit Water 8x355ml,Beverages,STORE-03,Suburban Center,60,True,1,6.93,1.9052,0.52,0.9,LOW_RISK,0.0
+SKU-0031,Creamy Oat Milk Barista Edition 1L,Beverages,STORE-05,Eastgate Retail,21,True,1,19.39,10.4224,0.1,0.5,LOW_RISK,0.0
+SKU-0102,Organic Soy Milk Vanilla 1L,Beverages,STORE-03,Suburban Center,30,True,9,445.5,66.3788,0.14,0.5,LOW_RISK,0.0
+SKU-0006,Artisan Sourdough Sandwich Bread 600g,Packaged Goods,STORE-05,Eastgate Retail,60,True,0,0.0,6.4901,0.0,0.0,LOW_RISK,0.0
+SKU-0073,Pure Cranberry Juice 1L,Beverages,STORE-05,Eastgate Retail,45,True,0,0.0,22.4055,0.0,0.0,LOW_RISK,0.0
+SKU-0009,Sparkling Mineral Water 1L,Beverages,STORE-03,Suburban Center,60,True,0,0.0,11.6795,0.0,0.0,LOW_RISK,0.0
+SKU-0083,Electrolyte Sports Drink Blue 750ml,Beverages,STORE-03,Suburban Center,45,True,0,0.0,4.0923,0.0,0.0,LOW_RISK,0.0
+SKU-0120,Golden Toasted Waffles Frozen 8pk,Packaged Goods,STORE-03,Suburban Center,45,True,0,0.0,21.5403,0.0,0.0,LOW_RISK,0.0
+SKU-0009,Sparkling Mineral Water 1L,Beverages,STORE-02,Downtown Urban,60,True,0,0.0,14.1397,0.0,0.0,LOW_RISK,0.0
+SKU-0039,Unsweetened Coconut Water 500ml,Beverages,STORE-02,Downtown Urban,21,True,0,0.0,1.6957,0.0,0.0,LOW_RISK,0.0
+SKU-0009,Sparkling Mineral Water 1L,Beverages,STORE-01,Metro Flagship,60,True,0,0.0,18.3808,0.0,0.0,LOW_RISK,0.0
+SKU-0142,Golden Turmeric Ginger Tea 30ct,Beverages,STORE-02,Downtown Urban,30,True,0,0.0,23.6274,0.0,0.0,LOW_RISK,0.0
+SKU-0145,Organic Chicken Bone Broth 1L,Packaged Goods,STORE-05,Eastgate Retail,30,True,0,0.0,11.9518,0.0,0.0,LOW_RISK,0.0
+SKU-0009,Sparkling Mineral Water 1L,Beverages,STORE-05,Eastgate Retail,60,True,0,0.0,10.3397,0.0,0.0,LOW_RISK,0.0
+SKU-0145,Organic Chicken Bone Broth 1L,Packaged Goods,STORE-04,Westside Hub,30,True,0,0.0,14.71,0.0,0.0,LOW_RISK,0.0
+SKU-0142,Golden Turmeric Ginger Tea 30ct,Beverages,STORE-01,Metro Flagship,30,True,0,0.0,29.9315,0.0,0.0,LOW_RISK,0.0
+SKU-0026,Barbeque Mesquite Potato Chips 200g,Packaged Goods,STORE-05,Eastgate Retail,60,True,0,0.0,3.2342,0.0,0.0,LOW_RISK,0.0
+SKU-0026,Barbeque Mesquite Potato Chips 200g,Packaged Goods,STORE-03,Suburban Center,60,True,0,0.0,3.7025,0.0,0.0,LOW_RISK,0.0
+SKU-0018,Soft Brioche Hamburger Buns 4pk,Packaged Goods,STORE-02,Downtown Urban,21,True,0,0.0,31.7143,0.0,0.0,LOW_RISK,0.0
+SKU-0026,Barbeque Mesquite Potato Chips 200g,Packaged Goods,STORE-02,Downtown Urban,60,True,0,0.0,4.6356,0.0,0.0,LOW_RISK,0.0
+SKU-0145,Organic Chicken Bone Broth 1L,Packaged Goods,STORE-01,Metro Flagship,30,True,0,0.0,18.7802,0.0,0.0,LOW_RISK,0.0
+SKU-0135,Coconut Almond Blend Milk 1L,Beverages,STORE-03,Suburban Center,21,True,0,0.0,8.0984,0.0,0.0,LOW_RISK,0.0
+SKU-0142,Golden Turmeric Ginger Tea 30ct,Beverages,STORE-05,Eastgate Retail,30,True,0,0.0,17.0575,0.0,0.0,LOW_RISK,0.0
+SKU-0004,Colombian Dark Roast Coffee 500g,Beverages,STORE-03,Suburban Center,60,True,0,0.0,6.7538,0.0,0.0,LOW_RISK,0.0
+SKU-0004,Colombian Dark Roast Coffee 500g,Beverages,STORE-04,Westside Hub,60,True,0,0.0,8.1795,0.0,0.0,LOW_RISK,0.0
+SKU-0011,100% Whole Wheat Sliced Bread 500g,Packaged Goods,STORE-04,Westside Hub,30,True,0,0.0,14.4203,0.0,0.0,LOW_RISK,0.0
+SKU-0004,Colombian Dark Roast Coffee 500g,Beverages,STORE-02,Downtown Urban,60,True,0,0.0,8.5859,0.0,0.0,LOW_RISK,0.0
+SKU-0004,Colombian Dark Roast Coffee 500g,Beverages,STORE-01,Metro Flagship,60,True,0,0.0,10.7179,0.0,0.0,LOW_RISK,0.0
+SKU-0092,Matcha Green Tea Latte Mix 250g,Beverages,STORE-01,Metro Flagship,45,True,0,0.0,6.3686,0.0,0.0,LOW_RISK,0.0
+SKU-0089,Sparkling Grapefruit Water 8x355ml,Beverages,STORE-04,Westside Hub,60,True,0,0.0,2.0823,0.0,0.0,LOW_RISK,0.0
+SKU-0122,Tonic Water with Quinine 4x250ml,Beverages,STORE-01,Metro Flagship,45,True,0,0.0,14.2632,0.0,0.0,LOW_RISK,0.0
+SKU-0142,Golden Turmeric Ginger Tea 30ct,Beverages,STORE-03,Suburban Center,30,True,0,0.0,19.1836,0.0,0.0,LOW_RISK,0.0
+SKU-0147,Chocolate Chip Cookie Dough 450g,Packaged Goods,STORE-04,Westside Hub,45,True,0,0.0,11.7813,0.0,0.0,LOW_RISK,0.0
+SKU-0073,Pure Cranberry Juice 1L,Beverages,STORE-03,Suburban Center,45,True,0,0.0,26.189,0.0,0.0,LOW_RISK,0.0
+SKU-0010,Organic Japanese Green Tea 50ct,Beverages,STORE-02,Downtown Urban,60,True,0,0.0,13.0275,0.0,0.0,LOW_RISK,0.0
+SKU-0019,Organic Multigrain Tortilla Wraps 6pk,Packaged Goods,STORE-02,Downtown Urban,30,True,0,0.0,12.0147,0.0,0.0,LOW_RISK,0.0
+SKU-0111,Organic Peppermint Herbal Tea 30ct,Beverages,STORE-02,Downtown Urban,45,True,0,0.0,4.8618,0.0,0.0,LOW_RISK,0.0
+SKU-0073,Pure Cranberry Juice 1L,Beverages,STORE-02,Downtown Urban,45,True,0,0.0,30.9014,0.0,0.0,LOW_RISK,0.0
+SKU-0010,Organic Japanese Green Tea 50ct,Beverages,STORE-01,Metro Flagship,60,True,0,0.0,16.6301,0.0,0.0,LOW_RISK,0.0
+SKU-0018,Soft Brioche Hamburger Buns 4pk,Packaged Goods,STORE-03,Suburban Center,21,True,0,0.0,24.6716,0.0,0.0,LOW_RISK,0.0

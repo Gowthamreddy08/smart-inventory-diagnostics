@@ -1,0 +1,7 @@
+transaction_id,sku_id,store_id,transaction_date,units_demanded,units_fulfilled,snapshot_date,stock_on_hand,stock_in_transit,quarantine_id,rule_id,quarantine_reason,quarantine_timestamp
+TXN-STORE-01-SKU-0094-20251209,SKU-0094,STORE-01,2025-12-09,24,2,2025-12-09,0,0,Q-SALE-0001,R004_GHOST_SALES,Sales fulfilled (2 units) on 2025-12-09 despite zero physical stock and zero transit.,2026-10-29T21:44:31.464919
+TXN-STORE-01-SKU-0109-20251003,SKU-0109,STORE-01,2025-10-03,5,1,2025-10-03,0,0,Q-SALE-0002,R004_GHOST_SALES,Sales fulfilled (1 units) on 2025-10-03 despite zero physical stock and zero transit.,2026-10-29T21:44:31.464919
+TXN-GHOST-STORE-01-SKU-0109-20251003,SKU-0109,STORE-01,2025-10-03,3,3,2025-10-03,0,0,Q-SALE-0003,R004_GHOST_SALES,Sales fulfilled (3 units) on 2025-10-03 despite zero physical stock and zero transit.,2026-10-29T21:44:31.464919
+TXN-GHOST-STORE-02-SKU-0122-20250901,SKU-0122,STORE-02,2025-09-01,3,3,2025-09-01,0,0,Q-SALE-0004,R004_GHOST_SALES,Sales fulfilled (3 units) on 2025-09-01 despite zero physical stock and zero transit.,2026-10-29T21:44:31.464919
+TXN-GHOST-STORE-02-SKU-0111-20251230,SKU-0111,STORE-02,2025-12-30,3,3,2025-12-30,0,0,Q-SALE-0005,R004_GHOST_SALES,Sales fulfilled (3 units) on 2025-12-30 despite zero physical stock and zero transit.,2026-10-29T21:44:31.464919
+TXN-GHOST-STORE-01-SKU-0094-20251209,SKU-0094,STORE-01,2025-12-09,3,3,2025-12-09,0,0,Q-SALE-0006,R004_GHOST_SALES,Sales fulfilled (3 units) on 2025-12-09 despite zero physical stock and zero transit.,2026-10-29T21:44:31.464919

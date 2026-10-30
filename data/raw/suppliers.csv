@@ -1,0 +1,11 @@
+supplier_id,supplier_name,contracted_lead_time_days,on_time_sla_target
+SUP-01,Apex Global Logistics,10,0.95
+SUP-02,Pinnacle Brands Inc,7,0.95
+SUP-03,BlueSky Supply Co,14,0.95
+SUP-04,Keystone Consumer Goods,7,0.95
+SUP-05,Vanguard Distributors,7,0.95
+SUP-06,Frontier Beverage Supply,10,0.95
+SUP-07,Summit Packaging Solutions,7,0.95
+SUP-08,Pacific Rim Sourcing,5,0.95
+SUP-09,Continental Foods Group,5,0.95
+SUP-10,National Wholesale Alliance,14,0.95

@@ -1,0 +1,9 @@
+snapshot_date,sku_id,store_id,stock_on_hand,stock_in_transit,is_stockout_flag,quarantine_id,rule_id,quarantine_reason,quarantine_timestamp
+2025-10-12,SKU-0071,STORE-01,-2,257,1,Q-SNAP-0001,R003_NEGATIVE_INVENTORY,Negative stock-on-hand (-2 units) recorded. Indicates register scan-latency or unposted intake.,2026-10-29T21:44:31.464919
+2025-01-29,SKU-0128,STORE-01,-2,346,1,Q-SNAP-0002,R003_NEGATIVE_INVENTORY,Negative stock-on-hand (-2 units) recorded. Indicates register scan-latency or unposted intake.,2026-10-29T21:44:31.464919
+2025-07-04,SKU-0136,STORE-01,-1,222,1,Q-SNAP-0003,R003_NEGATIVE_INVENTORY,Negative stock-on-hand (-1 units) recorded. Indicates register scan-latency or unposted intake.,2026-10-29T21:44:31.464919
+2025-06-09,SKU-0020,STORE-02,-2,89,1,Q-SNAP-0004,R003_NEGATIVE_INVENTORY,Negative stock-on-hand (-2 units) recorded. Indicates register scan-latency or unposted intake.,2026-10-29T21:44:31.464919
+2025-10-12,SKU-0016,STORE-03,-2,145,1,Q-SNAP-0005,R003_NEGATIVE_INVENTORY,Negative stock-on-hand (-2 units) recorded. Indicates register scan-latency or unposted intake.,2026-10-29T21:44:31.464919
+2025-04-13,SKU-0116,STORE-03,-1,211,1,Q-SNAP-0006,R003_NEGATIVE_INVENTORY,Negative stock-on-hand (-1 units) recorded. Indicates register scan-latency or unposted intake.,2026-10-29T21:44:31.464919
+2025-01-10,SKU-0005,STORE-04,-1,29,1,Q-SNAP-0007,R003_NEGATIVE_INVENTORY,Negative stock-on-hand (-1 units) recorded. Indicates register scan-latency or unposted intake.,2026-10-29T21:44:31.464919
+2025-08-23,SKU-0125,STORE-04,-1,173,1,Q-SNAP-0008,R003_NEGATIVE_INVENTORY,Negative stock-on-hand (-1 units) recorded. Indicates register scan-latency or unposted intake.,2026-10-29T21:44:31.464919

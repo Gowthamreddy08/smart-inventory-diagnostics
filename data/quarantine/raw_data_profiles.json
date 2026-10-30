@@ -1,0 +1,358 @@
+{
+  "inventory_snapshots.csv": {
+    "filename": "inventory_snapshots.csv",
+    "row_count": 273750,
+    "col_count": 6,
+    "file_size_bytes": 10419852,
+    "file_size_mb": 9.94,
+    "columns": {
+      "snapshot_date": {
+        "dtype": "str",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 365,
+        "min_date": "2025-01-01",
+        "max_date": "2025-12-31"
+      },
+      "sku_id": {
+        "dtype": "str",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 150
+      },
+      "store_id": {
+        "dtype": "str",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 5
+      },
+      "stock_on_hand": {
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 625,
+        "min": -2.0,
+        "max": 878.0,
+        "mean": 50.73,
+        "std": 71.72
+      },
+      "stock_in_transit": {
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 668,
+        "min": 0.0,
+        "max": 878.0,
+        "mean": 73.37,
+        "std": 94.91
+      },
+      "is_stockout_flag": {
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 2,
+        "min": 0.0,
+        "max": 1.0,
+        "mean": 0.07,
+        "std": 0.25
+      }
+    }
+  },
+  "products.csv": {
+    "filename": "products.csv",
+    "row_count": 150,
+    "col_count": 9,
+    "file_size_bytes": 13894,
+    "file_size_mb": 0.01,
+    "columns": {
+      "sku_id": {
+        "dtype": "str",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 150
+      },
+      "product_name": {
+        "dtype": "str",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 150
+      },
+      "category": {
+        "dtype": "str",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 5
+      },
+      "unit_cost": {
+        "dtype": "float64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 147,
+        "min": 2.24,
+        "max": 57.75,
+        "mean": 17.58,
+        "std": 11.57
+      },
+      "unit_selling_price": {
+        "dtype": "float64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 147,
+        "min": 2.78,
+        "max": 114.17,
+        "mean": 27.74,
+        "std": 22.43
+      },
+      "contribution_margin": {
+        "dtype": "float64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 143,
+        "min": 0.53,
+        "max": 61.65,
+        "mean": 10.16,
+        "std": 11.42
+      },
+      "primary_supplier_id": {
+        "dtype": "str",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 10
+      },
+      "shelf_life_days": {
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 6,
+        "min": 14.0,
+        "max": 365.0,
+        "mean": 292.86,
+        "std": 136.48
+      },
+      "is_perishable": {
+        "dtype": "bool",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 2
+      }
+    }
+  },
+  "sales_transactions.csv": {
+    "filename": "sales_transactions.csv",
+    "row_count": 206987,
+    "col_count": 6,
+    "file_size_bytes": 13610319,
+    "file_size_mb": 12.98,
+    "columns": {
+      "transaction_id": {
+        "dtype": "str",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 206987
+      },
+      "sku_id": {
+        "dtype": "str",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 150
+      },
+      "store_id": {
+        "dtype": "str",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 5
+      },
+      "transaction_date": {
+        "dtype": "str",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 365,
+        "min_date": "2025-01-01",
+        "max_date": "2025-12-31"
+      },
+      "units_demanded": {
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 318,
+        "min": 1.0,
+        "max": 491.0,
+        "mean": 12.71,
+        "std": 19.39
+      },
+      "units_fulfilled": {
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 294,
+        "min": 0.0,
+        "max": 468.0,
+        "mean": 11.32,
+        "std": 17.51
+      }
+    }
+  },
+  "stores.csv": {
+    "filename": "stores.csv",
+    "row_count": 5,
+    "col_count": 5,
+    "file_size_bytes": 301,
+    "file_size_mb": 0.0,
+    "columns": {
+      "store_id": {
+        "dtype": "str",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 5
+      },
+      "store_name": {
+        "dtype": "str",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 5
+      },
+      "region": {
+        "dtype": "str",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 5
+      },
+      "store_tier": {
+        "dtype": "str",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 3
+      },
+      "is_open_flag": {
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 1,
+        "min": 1.0,
+        "max": 1.0,
+        "mean": 1.0,
+        "std": 0.0
+      }
+    }
+  },
+  "supplier_orders.csv": {
+    "filename": "supplier_orders.csv",
+    "row_count": 37521,
+    "col_count": 9,
+    "file_size_bytes": 2504310,
+    "file_size_mb": 2.39,
+    "columns": {
+      "po_id": {
+        "dtype": "str",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 37521
+      },
+      "sku_id": {
+        "dtype": "str",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 150
+      },
+      "supplier_id": {
+        "dtype": "str",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 10
+      },
+      "destination_store_id": {
+        "dtype": "str",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 5
+      },
+      "order_placed_date": {
+        "dtype": "str",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 365,
+        "min_date": "2025-01-01",
+        "max_date": "2025-12-31"
+      },
+      "order_delivered_date": {
+        "dtype": "str",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 379,
+        "min_date": "2025-01-05",
+        "max_date": "2026-03-11"
+      },
+      "order_quantity": {
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 454,
+        "min": 10.0,
+        "max": 747.0,
+        "mean": 62.6,
+        "std": 67.35
+      },
+      "delivered_quantity": {
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 454,
+        "min": 10.0,
+        "max": 747.0,
+        "mean": 62.6,
+        "std": 67.35
+      },
+      "actual_lead_time_days": {
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 22,
+        "min": -2.0,
+        "max": 95.0,
+        "mean": 8.58,
+        "std": 3.5
+      }
+    }
+  },
+  "suppliers.csv": {
+    "filename": "suppliers.csv",
+    "row_count": 10,
+    "col_count": 4,
+    "file_size_bytes": 457,
+    "file_size_mb": 0.0,
+    "columns": {
+      "supplier_id": {
+        "dtype": "str",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 10
+      },
+      "supplier_name": {
+        "dtype": "str",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 10
+      },
+      "contracted_lead_time_days": {
+        "dtype": "int64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 4,
+        "min": 5.0,
+        "max": 14.0,
+        "mean": 8.6,
+        "std": 3.31
+      },
+      "on_time_sla_target": {
+        "dtype": "float64",
+        "null_count": 0,
+        "null_pct": 0.0,
+        "unique_count": 1,
+        "min": 0.95,
+        "max": 0.95,
+        "mean": 0.95,
+        "std": 0.0
+      }
+    }
+  }
+}

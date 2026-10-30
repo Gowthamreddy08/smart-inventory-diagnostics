@@ -1,0 +1,6 @@
+store_id,store_name,region,store_tier,is_open_flag
+STORE-01,Metro Flagship,Central,Tier 1 - Flagship,1
+STORE-02,Downtown Urban,North,Tier 2 - Urban,1
+STORE-03,Suburban Center,South,Tier 3 - Suburban,1
+STORE-04,Westside Hub,West,Tier 2 - Urban,1
+STORE-05,Eastgate Retail,East,Tier 3 - Suburban,1

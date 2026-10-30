@@ -1,0 +1,7 @@
+entity,raw_ingested_rows,quarantined_rows,warehouse_clean_rows,reconciliation_variance,financial_impact_quarantined,governance_status
+Products / dim_product,150,0,150,0,$0.00,PASS - Exact Reconciliation
+Stores / dim_store,5,0,5,0,$0.00,PASS - Exact Reconciliation
+Suppliers / dim_supplier,10,0,10,0,$0.00,PASS - Exact Reconciliation
+Sales Transactions / fct_daily_sales,206987,6,206981,0,$214.30 phantom sales quarantined,PASS - Ghost Sales Isolated
+Inventory Snapshots / fct_daily_inventory_snapshot,273750,8,273742,0,-$672.45 negative inventory isolated,PASS - Negative Inventory Isolated
+Purchase Orders / fct_purchase_orders,37521,2,37519,0,2 negative lead time POs excluded,PASS - Negative Lead Time Isolated

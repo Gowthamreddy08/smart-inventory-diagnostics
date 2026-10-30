@@ -1,0 +1,151 @@
+sku_id,product_name,category,unit_cost,unit_selling_price,contribution_margin,primary_supplier_id,shelf_life_days,is_perishable
+SKU-0001,Organic Penne Rigate Pasta 500g,Dry Grocery,20.68,27.57,6.89,SUP-04,365,False
+SKU-0002,Liquid Laundry Detergent Free & Clear 2L,Household Goods,9.2,10.95,1.75,SUP-04,365,False
+SKU-0003,Arabica Medium Roast Coffee 500g,Beverages,3.63,4.97,1.34,SUP-10,365,False
+SKU-0004,Colombian Dark Roast Coffee 500g,Beverages,10.4,15.29,4.89,SUP-06,60,True
+SKU-0005,Daily Hydrating Facial Cleanser 200ml,Personal Care,2.24,3.39,1.15,SUP-09,365,False
+SKU-0006,Artisan Sourdough Sandwich Bread 600g,Packaged Goods,6.38,8.86,2.48,SUP-03,60,True
+SKU-0007,Pure Mountain Spring Water 1.5L,Beverages,12.98,19.09,6.11,SUP-03,14,True
+SKU-0008,Bronze Cut Spaghetti Pasta 500g,Dry Grocery,10.37,16.2,5.83,SUP-07,365,False
+SKU-0009,Sparkling Mineral Water 1L,Beverages,19.62,26.16,6.54,SUP-10,60,True
+SKU-0010,Organic Japanese Green Tea 50ct,Beverages,15.48,25.38,9.9,SUP-10,60,True
+SKU-0011,100% Whole Wheat Sliced Bread 500g,Packaged Goods,19.69,29.39,9.7,SUP-09,30,True
+SKU-0012,Organic Fusilli Whole Wheat 500g,Dry Grocery,15.45,20.88,5.43,SUP-06,365,False
+SKU-0013,Long Grain Jasmine Rice 5kg,Dry Grocery,41.14,69.73,28.59,SUP-05,365,False
+SKU-0014,Gentle Foaming Face Wash 150ml,Personal Care,2.28,2.96,0.68,SUP-03,365,False
+SKU-0015,High-Efficiency Mountain Spring Laundry Detergent 2L,Household Goods,2.25,2.78,0.53,SUP-08,365,False
+SKU-0016,Fabric Softener Fresh Scent 1.5L,Household Goods,20.54,33.67,13.13,SUP-02,365,False
+SKU-0017,English Breakfast Black Tea 100ct,Beverages,17.3,22.76,5.46,SUP-08,365,False
+SKU-0018,Soft Brioche Hamburger Buns 4pk,Packaged Goods,44.1,84.81,40.71,SUP-02,21,True
+SKU-0019,Organic Multigrain Tortilla Wraps 6pk,Packaged Goods,12.1,15.71,3.61,SUP-05,30,True
+SKU-0020,Chamomile Herbal Infusion Tea 40ct,Beverages,23.32,32.85,9.53,SUP-04,365,False
+SKU-0021,Fragrant Basmati White Rice 5kg,Dry Grocery,14.79,17.82,3.03,SUP-08,365,False
+SKU-0022,70% Dark Chocolate Sea Salt Bar 100g,Packaged Goods,18.12,24.16,6.04,SUP-05,365,False
+SKU-0023,Milk Chocolate Roasted Almond Bar 100g,Packaged Goods,9.34,14.15,4.81,SUP-01,365,False
+SKU-0024,Crispy Sea Salt Kettle Potato Chips 200g,Packaged Goods,18.97,25.99,7.02,SUP-05,365,False
+SKU-0025,100% Squeezed Orange Juice 1L,Beverages,13.24,16.76,3.52,SUP-03,14,True
+SKU-0026,Barbeque Mesquite Potato Chips 200g,Packaged Goods,5.93,7.7,1.77,SUP-03,60,True
+SKU-0027,Organic Brown Basmati Rice 2kg,Dry Grocery,17.86,30.79,12.93,SUP-06,365,False
+SKU-0028,Extra Virgin Olive Oil Cold Pressed 750ml,Dry Grocery,21.54,28.72,7.18,SUP-05,365,False
+SKU-0029,White Cheddar Baked Popcorn 150g,Packaged Goods,4.96,6.7,1.74,SUP-08,14,True
+SKU-0030,Unsweetened Almond Milk 1L,Beverages,6.85,8.56,1.71,SUP-07,365,False
+SKU-0031,Creamy Oat Milk Barista Edition 1L,Beverages,19.39,28.1,8.71,SUP-01,21,True
+SKU-0032,Concentrated Dishwashing Liquid Lemon 750ml,Household Goods,11.93,18.35,6.42,SUP-03,365,False
+SKU-0033,Deep Moisture Body Wash Shea Butter 500ml,Personal Care,29.95,42.18,12.23,SUP-09,365,False
+SKU-0034,Refreshing Citrus Body Wash 500ml,Personal Care,2.59,3.32,0.73,SUP-09,365,False
+SKU-0035,Organic Whole Dairy Milk 1L,Beverages,11.56,15.21,3.65,SUP-02,21,True
+SKU-0036,Roasted Salted California Almonds 250g,Packaged Goods,3.46,4.44,0.98,SUP-01,365,False
+SKU-0037,Raw Organic Walnut Halves 200g,Packaged Goods,10.47,16.11,5.64,SUP-09,21,True
+SKU-0038,2% Reduced Fat Dairy Milk 1L,Beverages,16.37,19.96,3.59,SUP-05,365,False
+SKU-0039,Unsweetened Coconut Water 500ml,Beverages,17.45,22.37,4.92,SUP-06,21,True
+SKU-0040,Crisp Apple Juice 100% Pure 1L,Beverages,25.43,36.33,10.9,SUP-06,365,False
+SKU-0041,Daily Moisture Repair Shampoo 400ml,Personal Care,9.16,12.21,3.05,SUP-10,365,False
+SKU-0042,Pure Avocado Cooking Oil 500ml,Dry Grocery,15.23,18.8,3.57,SUP-04,365,False
+SKU-0043,100% Canola Cooking Oil 1L,Dry Grocery,6.11,7.45,1.34,SUP-03,365,False
+SKU-0044,Color Protect Shampoo Argan Oil 400ml,Personal Care,24.52,54.49,29.97,SUP-01,365,False
+SKU-0045,Crushed San Marzano Tomatoes 800g,Dry Grocery,17.89,22.09,4.2,SUP-06,365,False
+SKU-0046,Deep Nourishing Hair Conditioner 400ml,Personal Care,17.24,25.35,8.11,SUP-04,365,False
+SKU-0047,Plant-Based Dish Soap Citrus 750ml,Household Goods,26.42,43.31,16.89,SUP-03,365,False
+SKU-0048,Sparkling Lemon-Lime Soda 12x330ml,Beverages,12.45,15.96,3.51,SUP-07,365,False
+SKU-0049,Anti-Dandruff 2-in-1 Shampoo & Conditioner 350ml,Personal Care,7.11,9.0,1.89,SUP-04,365,False
+SKU-0050,Organic Marinara Pasta Sauce 680g,Dry Grocery,29.87,41.49,11.62,SUP-08,365,False
+SKU-0051,All-in-One Dishwasher Pods Citrus 40ct,Household Goods,5.22,6.69,1.47,SUP-05,365,False
+SKU-0052,Creamy All-Natural Peanut Butter 500g,Dry Grocery,7.55,10.2,2.65,SUP-04,365,False
+SKU-0053,Classic Cola Zero Sugar 12x330ml,Beverages,6.51,8.92,2.41,SUP-04,365,False
+SKU-0054,Multi-Surface Disinfectant Cleaning Spray 750ml,Household Goods,27.75,40.81,13.06,SUP-02,365,False
+SKU-0055,Antibacterial Kitchen Cleaner Spray 500ml,Household Goods,14.04,20.65,6.61,SUP-06,365,False
+SKU-0056,Honey Roasted Cashews 250g,Packaged Goods,39.46,78.92,39.46,SUP-07,365,False
+SKU-0057,Ancient Grain Granola Honey Almond 400g,Packaged Goods,34.56,58.58,24.02,SUP-06,365,False
+SKU-0058,Ginger Ale Craft Soda 4x330ml,Beverages,57.75,99.57,41.82,SUP-05,30,True
+SKU-0059,Pomegranate Antioxidant Juice 750ml,Beverages,29.53,39.91,10.38,SUP-02,365,False
+SKU-0060,Glass & Mirror Streak-Free Cleaner 750ml,Household Goods,12.44,18.29,5.85,SUP-06,365,False
+SKU-0061,Advanced Whitening Fluoride Toothpaste 150g,Personal Care,52.52,114.17,61.65,SUP-10,365,False
+SKU-0062,Dark Chocolate Chunk Protein Bars 5pk,Packaged Goods,22.11,31.59,9.48,SUP-02,365,False
+SKU-0063,Rolled Oats Fruit & Nut Bars 6pk,Packaged Goods,27.48,57.25,29.77,SUP-04,45,True
+SKU-0064,Vanilla Cold Brew Coffee 330ml,Beverages,11.95,15.13,3.18,SUP-09,365,False
+SKU-0065,Crispy Rosemary Water Crackers 150g,Packaged Goods,20.68,27.95,7.27,SUP-04,365,False
+SKU-0066,Mango Passionfruit Iced Tea 500ml,Beverages,5.5,6.55,1.05,SUP-06,365,False
+SKU-0067,Organic Kombucha Ginger Lemon 350ml,Beverages,27.28,36.37,9.09,SUP-05,365,False
+SKU-0068,Sensitive Teeth Relief Toothpaste 120g,Personal Care,14.1,18.08,3.98,SUP-06,365,False
+SKU-0069,Herbal Mint Antibacterial Mouthwash 500ml,Personal Care,17.1,25.15,8.05,SUP-05,365,False
+SKU-0070,Whole Wheat Pita Crackers 200g,Packaged Goods,7.46,10.08,2.62,SUP-03,45,True
+SKU-0071,Crunchy Roasted Almond Butter 350g,Dry Grocery,12.52,20.52,8.0,SUP-10,365,False
+SKU-0072,Sharp Aged Cheddar Cheese Block 250g,Packaged Goods,5.5,7.14,1.64,SUP-05,365,False
+SKU-0073,Pure Cranberry Juice 1L,Beverages,18.37,39.93,21.56,SUP-05,45,True
+SKU-0074,Shredded Mozzarella Cheese 300g,Packaged Goods,31.14,55.61,24.47,SUP-10,365,False
+SKU-0075,Soft Bristle Bamboo Toothbrushes 4pk,Personal Care,10.42,14.08,3.66,SUP-08,365,False
+SKU-0076,Daily Facial Moisturizer SPF30 100ml,Personal Care,3.05,4.55,1.5,SUP-04,365,False
+SKU-0077,Plain Unsweetened Greek Yogurt 500g,Packaged Goods,3.69,4.56,0.87,SUP-08,365,False
+SKU-0078,Organic Rolled Porridge Oats 1kg,Dry Grocery,18.4,28.31,9.91,SUP-02,365,False
+SKU-0079,Thick Bleach Toilet Bowl Cleaner 750ml,Household Goods,2.86,3.86,1.0,SUP-09,365,False
+SKU-0080,Vanilla Bean Greek Yogurt 500g,Packaged Goods,8.15,9.82,1.67,SUP-06,21,True
+SKU-0081,Disinfecting Surface Wipes Fresh Scent 80ct,Household Goods,19.63,24.23,4.6,SUP-04,365,False
+SKU-0082,Black Beans in Sea Salt 400g,Dry Grocery,16.52,21.18,4.66,SUP-03,365,False
+SKU-0083,Electrolyte Sports Drink Blue 750ml,Beverages,2.87,4.35,1.48,SUP-01,45,True
+SKU-0084,Pure Salted Sweet Cream Butter 250g,Packaged Goods,2.28,3.45,1.17,SUP-02,365,False
+SKU-0085,Organic Pasture-Raised Brown Eggs 12ct,Packaged Goods,14.31,19.6,5.29,SUP-04,365,False
+SKU-0086,Broad Spectrum Sunscreen Lotion SPF50 150ml,Personal Care,17.61,24.46,6.85,SUP-08,365,False
+SKU-0087,Ultra Hydrating Night Cream 50ml,Personal Care,12.32,15.02,2.7,SUP-04,365,False
+SKU-0088,Organic Chickpeas in Water 400g,Dry Grocery,42.05,85.82,43.77,SUP-01,365,False
+SKU-0089,Sparkling Grapefruit Water 8x355ml,Beverages,6.93,8.56,1.63,SUP-07,60,True
+SKU-0090,Aloe Vera Soothing Body Lotion 400ml,Personal Care,13.13,16.83,3.7,SUP-01,365,False
+SKU-0091,Large Grade A White Eggs 12ct,Packaged Goods,14.27,18.29,4.02,SUP-04,365,False
+SKU-0092,Matcha Green Tea Latte Mix 250g,Beverages,14.47,18.55,4.08,SUP-08,45,True
+SKU-0093,Smoked Deli Turkey Breast Slices 200g,Packaged Goods,32.06,69.7,37.64,SUP-09,365,False
+SKU-0094,Shea Butter Intensive Hand Cream 100ml,Personal Care,19.64,29.76,10.12,SUP-10,365,False
+SKU-0095,Applewood Smoked Bacon 350g,Packaged Goods,12.0,18.18,6.18,SUP-07,365,False
+SKU-0096,Yellow Corn Tortilla Chips 300g,Packaged Goods,6.29,8.86,2.57,SUP-08,365,False
+SKU-0097,Gentle Foaming Hand Soap Lavender 300ml,Personal Care,8.8,11.89,3.09,SUP-08,365,False
+SKU-0098,Ultra Soft Paper Towels 2-Ply 6 Rolls,Household Goods,13.14,17.76,4.62,SUP-04,365,False
+SKU-0099,Recycled Fiber Paper Towels 4 Rolls,Household Goods,17.25,22.12,4.87,SUP-09,365,False
+SKU-0100,Antibacterial Liquid Hand Soap Refill 1L,Personal Care,35.16,63.93,28.77,SUP-04,365,False
+SKU-0101,Premium Bath Tissue 3-Ply 12 Double Rolls,Household Goods,12.84,17.35,4.51,SUP-08,365,False
+SKU-0102,Organic Soy Milk Vanilla 1L,Beverages,49.5,78.57,29.07,SUP-05,30,True
+SKU-0103,Soft Facial Tissues Cube Box 85ct,Household Goods,29.9,40.41,10.51,SUP-09,365,False
+SKU-0104,Fresh Pressed Lemonade 1.5L,Beverages,22.94,38.23,15.29,SUP-03,45,True
+SKU-0105,Red Kidney Beans Canned 400g,Dry Grocery,17.6,25.88,8.28,SUP-04,365,False
+SKU-0106,Peach Green Tea 500ml,Beverages,31.04,66.04,35.0,SUP-07,365,False
+SKU-0107,Mild Roasted Chunky Salsa 450g,Packaged Goods,6.2,8.49,2.29,SUP-08,365,False
+SKU-0108,All-Purpose Unbleached Flour 2kg,Dry Grocery,11.68,19.15,7.47,SUP-07,365,False
+SKU-0109,Organic Beeswax Lip Balm 3pk,Personal Care,14.75,19.67,4.92,SUP-10,365,False
+SKU-0110,French Vanilla Creamer 500ml,Beverages,11.97,17.1,5.13,SUP-10,365,False
+SKU-0111,Organic Peppermint Herbal Tea 30ct,Beverages,9.29,12.55,3.26,SUP-06,45,True
+SKU-0112,48hr Aluminum-Free Deodorant Stick 75g,Personal Care,25.75,40.23,14.48,SUP-09,365,False
+SKU-0113,Organic Strawberry Fruit Spread 350g,Packaged Goods,31.21,56.75,25.54,SUP-10,365,False
+SKU-0114,Antiperspirant Dry Spray 150ml,Personal Care,16.47,26.14,9.67,SUP-04,365,False
+SKU-0115,Heavy-Duty Drawstring Trash Bags 50L 30ct,Household Goods,27.49,42.95,15.46,SUP-07,365,False
+SKU-0116,5-Blade Ergonomic Shaving Razor Handle + 2ct,Personal Care,24.14,47.33,23.19,SUP-01,365,False
+SKU-0117,Mens Sensitive Shave Gel 200ml,Personal Care,5.9,7.47,1.57,SUP-06,365,False
+SKU-0118,100% Pure Cotton Round Pads 100ct,Personal Care,8.92,12.74,3.82,SUP-03,365,False
+SKU-0119,Fragrance-Free Makeup Cleansing Wipes 30ct,Personal Care,14.78,25.93,11.15,SUP-03,365,False
+SKU-0120,Golden Toasted Waffles Frozen 8pk,Packaged Goods,20.14,38.73,18.59,SUP-09,45,True
+SKU-0121,Sweet Cream Pancake Mix 900g,Packaged Goods,6.79,8.71,1.92,SUP-10,365,False
+SKU-0122,Tonic Water with Quinine 4x250ml,Beverages,6.78,9.55,2.77,SUP-07,45,True
+SKU-0123,Fine Grain Pink Himalayan Salt 500g,Dry Grocery,12.5,17.12,4.62,SUP-01,365,False
+SKU-0124,Tall Kitchen Garbage Bags Lemon Scent 45L 40ct,Household Goods,9.5,13.01,3.51,SUP-07,365,False
+SKU-0125,Heavy Duty Aluminum Foil 30cm x 25m,Household Goods,54.08,100.15,46.07,SUP-04,365,False
+SKU-0126,Hypoallergenic Cotton Swabs 300ct,Personal Care,16.0,21.33,5.33,SUP-06,365,False
+SKU-0127,Non-Stick Parchment Baking Paper 15m,Household Goods,15.49,20.12,4.63,SUP-07,365,False
+SKU-0128,Multi-Purpose Food Storage Bags Resealable 50ct,Household Goods,15.05,23.52,8.47,SUP-07,365,False
+SKU-0129,Reusable Silicone Food Storage Pouch 2pk,Household Goods,7.81,12.02,4.21,SUP-02,365,False
+SKU-0130,Nourishing Coconut Hair Mask 250ml,Personal Care,18.44,25.26,6.82,SUP-01,365,False
+SKU-0131,Roasted Red Pepper Hummus 250g,Packaged Goods,15.07,21.23,6.16,SUP-01,365,False
+SKU-0132,Microfiber All-Purpose Cleaning Cloths 5pk,Household Goods,6.95,8.58,1.63,SUP-04,365,False
+SKU-0133,Hot Cocoa Mix Dark Chocolate 400g,Beverages,7.13,10.04,2.91,SUP-01,365,False
+SKU-0134,Raw Clover Honey Pure Unfiltered 500g,Dry Grocery,10.57,15.54,4.97,SUP-04,365,False
+SKU-0135,Coconut Almond Blend Milk 1L,Beverages,19.42,23.4,3.98,SUP-10,21,True
+SKU-0136,Ultra-Gentle Baby Body Wash & Shampoo 500ml,Personal Care,17.52,25.39,7.87,SUP-02,365,False
+SKU-0137,Classic Garlic Hummus 250g,Packaged Goods,25.32,41.51,16.19,SUP-04,365,False
+SKU-0138,Double-Sided Heavy Duty Scrub Sponges 4pk,Household Goods,41.19,79.21,38.02,SUP-06,365,False
+SKU-0139,Pure Grade A Canadian Maple Syrup 250ml,Dry Grocery,46.87,86.8,39.93,SUP-10,365,False
+SKU-0140,Mixed Berry Frozen Organic Smoothie 500g,Packaged Goods,26.3,47.82,21.52,SUP-02,365,False
+SKU-0141,Organic White Quinoa Grain 1kg,Dry Grocery,10.27,15.1,4.83,SUP-05,365,False
+SKU-0142,Golden Turmeric Ginger Tea 30ct,Beverages,14.2,26.79,12.59,SUP-10,30,True
+SKU-0143,Wild Caught Albacore White Tuna 150g,Packaged Goods,12.43,15.94,3.51,SUP-07,365,False
+SKU-0144,Red Lentils Split Dried 1kg,Dry Grocery,40.07,70.3,30.23,SUP-02,365,False
+SKU-0145,Organic Chicken Bone Broth 1L,Packaged Goods,22.72,32.93,10.21,SUP-04,30,True
+SKU-0146,Vegetable Medley Frozen 750g,Packaged Goods,29.35,44.47,15.12,SUP-02,365,False
+SKU-0147,Chocolate Chip Cookie Dough 450g,Packaged Goods,14.28,20.4,6.12,SUP-01,45,True
+SKU-0148,Odor Eliminating Room Air Freshener Spray 300ml,Household Goods,18.83,26.9,8.07,SUP-02,365,False
+SKU-0149,Crispy Wafer Hazelnut Biscuits 175g,Packaged Goods,27.84,47.19,19.35,SUP-06,45,True
+SKU-0150,Exfoliating Loofah Bath Sponge 2pk,Personal Care,45.01,81.84,36.83,SUP-02,365,False
